@@ -40,23 +40,12 @@
 - Audio and text messaging for offline or low-connectivity scenarios.
 - AI-powered route optimization and traffic prediction.
 
-## 📁 Project Structure
-
-src/
-├── components/
-│ ├── Dispatcher.js
-│ ├── EmergencyDriver.js
-│ ├── HospitalStaff.js
-│ └── MapComponent.js
-├── App.js
-└── index.js
-
 
 ## 🏗️ Setup Instructions
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Codelabq/aiers.git
 ```
 
 2. Install dependencies: 
